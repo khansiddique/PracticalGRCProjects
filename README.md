@@ -22,50 +22,61 @@ Before diving into the projects, it's worth understanding why hands-on work is s
 
 | Project | Key Skills Developed| 
 |---------------------| -----------------------------------------------------------|
-|1. Build a Mini Compliance Program (ISO 27001 / NIST)| Control mapping, framework alignment, gap identification, documentation, audit readiness fundamentals
+|1. Build a Mini Compliance Program (ISO 27001 / NIST)| Control mapping, framework alignment, gap identification, documentation, audit readiness fundamentals|
+|2. Create a Risk Register for a Mock Company| Risk scoring, likelihood & impact analysis, heat map creation, reporting, risk treatment planning|
+|3. Build a Third-Party Vendor Assessment Template| Vendor due diligence, questionnaire design, evidence review, scoring models, third-party risk evaluation|
+|4. Create an Incident Response Plan and Test It| Incident response planning, tabletop testing, workflow documentation, reporting, ISO 27035 alignment|
+|5. Map SOC 2 Controls to a Sample Cloud Environment| Cloud control implementation, evidence collection, technical control validation, SOC 2 TSC understanding| 
+|6. Build a Compliance Dashboard in Excel or Notion| Data visualization, KPI tracking, compliance metrics, control maturity scoring, executive reporting|
+|7. Conduct a Mock Internal Audit| Audit checklist creation, evidence review, findings documentation, non-conformity scoring, remediation planning|
 
-2. Create a Risk Register for a Mock CompanyRisk scoring, likelihood & impact analysis, heat map creation, reporting, risk treatment planning3. Build a Third-Party Vendor Assessment TemplateVendor due diligence, questionnaire design, evidence review, scoring models, third-party risk evaluation4. Create an Incident Response Plan and Test ItIncident response planning, tabletop testing, workflow documentation, reporting, ISO 27035 alignment5. Map SOC 2 Controls to a Sample Cloud EnvironmentCloud control implementation, evidence collection, technical control validation, SOC 2 TSC understanding6. Build a Compliance Dashboard in Excel or NotionData visualization, KPI tracking, compliance metrics, control maturity scoring, executive reporting7. Conduct a Mock Internal AuditAudit checklist creation, evidence review, findings documentation, non-conformity scoring, remediation planning
-How to Use This Guide
+## How to Use This Guide
 You do not need to build these labs by guessing. Let AI guide you step by step just like a personal mentor.
-Recommended approach:
 
-Copy any project description from this guide
-Paste it into your preferred AI assistant
-Request a full step-by-step walkthrough: environment setup, required tools, implementation steps, evidence collection, and how to document the final results for your resume or portfolio
-Make sure to also ask about potential costs and how to minimize or avoid them
+### Recommended approach:
+
+* Copy any project description from this guide
+* Paste it into your preferred AI assistant
+* Request a full step-by-step walkthrough: environment setup, required tools, implementation steps, evidence collection, and how to document the final results for your resume or portfolio
+* Make sure to also ask about potential costs and how to minimize or avoid them
 
 
-Project 1: Build a Mini Compliance Program (ISO 27001 / NIST)
-Description
+## Project 1: Build a Mini Compliance Program (ISO 27001 / NIST)
+### Description
+
 This project simulates the foundational work GRC analysts perform when setting up a compliance environment for a new or growing organization. You build a mini compliance program by selecting a framework (ISO 27001 or NIST 800-53), identifying assets, scoping the environment, documenting control requirements, and determining what gaps exist.
 You create a small control matrix that lists each control, its requirement, current maturity, responsible owner, and needed remediation. This mirrors how organizations prepare for audits and certifications and introduces you to core compliance language and structure.
+
 Reference: ISO 27001 standard
-Quick Setup Steps
 
-Choose a fictional company (for example, a SaaS startup or healthcare clinic) and define its scope: assets, systems, users, and data types.
-Download the ISO 27001 Annex A control list or NIST 800-53 catalog to use as your baseline requirements.
-Create a spreadsheet with columns such as:
+### Quick Setup Steps
 
-Control ID
-Requirement
-Current Status
-Owner
-Needed Actions
+1. Choose a fictional company (for example, a SaaS startup or healthcare clinic) and define its scope: assets, systems, users, and data types.
+2. Download the ISO 27001 Annex A control list or NIST 800-53 catalog to use as your baseline requirements.
+3. Create a spreadsheet with columns such as:
+
+* Control ID
+* Requirement
+* Current Status
+* Owner
+* Needed Actions
 
 
-Select at least 15–20 controls that apply to your environment and document whether they are implemented, partially implemented, or missing.
-Write a brief one-page "Compliance Program Overview" describing your chosen scope, goals, and current level of maturity.
-Highlight 3–5 gaps and propose realistic remediation steps that an organization could take to improve compliance readiness.
-Store all evidence (matrix, notes, document drafts) as part of your growing portfolio.
+4. Select at least 15–20 controls that apply to your environment and document whether they are implemented, partially implemented, or missing.
+5. Write a brief one-page "Compliance Program Overview" describing your chosen scope, goals, and current level of maturity.
+6. Highlight 3–5 gaps and propose realistic remediation steps that an organization could take to improve compliance readiness.
+7. Store all evidence (matrix, notes, document drafts) as part of your growing portfolio.
 
-Key Learning Outcomes
+## Key Learning Outcomes
 
-Understanding how compliance frameworks are structured
-Learning how to map controls to business processes
-Identifying gaps and building remediation plans
-Documenting compliance maturity in a clear, structured format
+* Understanding how compliance frameworks are structured
+* Learning how to map controls to business processes
+* Identifying gaps and building remediation plans
+* Documenting compliance maturity in a clear, structured format
 
-Note: This project is essential because compliance programs form the backbone of every GRC function.
+> Note: This project is essential because compliance programs form the backbone of every GRC function.
+
+--- 
 
 Additional Projects (2-7)
 Note: The document provided includes the full description for Project 1. Projects 2-7 are listed in the overview table above but their detailed descriptions were not included in the source material provided.

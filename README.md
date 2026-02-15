@@ -78,29 +78,32 @@ Reference: ISO 27001 standard
 
 --- 
 
-Additional Projects (2-7)
-Note: The document provided includes the full description for Project 1. Projects 2-7 are listed in the overview table above but their detailed descriptions were not included in the source material provided.
+## Additional Projects (2-7)
+> Note: The document provided includes the full description for Project 1. Projects 2-7 are listed in the overview table above but their detailed descriptions were not included in the source material provided.
+
 To get detailed instructions for any of these projects, you can:
 
-Copy the project name and key skills
-Ask an AI assistant for a complete step-by-step implementation guide
-Request specific guidance on tools, costs, and portfolio documentation
+1. Copy the project name and key skills
+2. Ask an AI assistant for a complete step-by-step implementation guide
+3. Request specific guidance on tools, costs, and portfolio documentation
 
+---
 
-Portfolio Development Tips
+## Portfolio Development Tips
+
 When completing these projects:
 
-Document thoroughly: Take screenshots, save configurations, and write clear explanations of your decisions
-Create evidence files: Build a structured portfolio with before/after states, gap analyses, and remediation plans
-Write summaries: For each project, create a 1-2 page summary explaining the business problem, your approach, and outcomes
-Make it presentable: Use tools like GitHub, Notion, or personal websites to showcase your work
-Practice explaining: Be ready to walk through your projects in interviews and explain your thought process
+1. Document thoroughly: Take screenshots, save configurations, and write clear explanations of your decisions
+2. Create evidence files: Build a structured portfolio with before/after states, gap analyses, and remediation plans
+3. Write summaries: For each project, create a 1-2 page summary explaining the business problem, your approach, and outcomes
+4. Make it presentable: Use tools like GitHub, Notion, or personal websites to showcase your work
+5. Practice explaining: Be ready to walk through your projects in interviews and explain your thought process
 
-Next Steps
+## Next Steps
 
-Choose one project to start with (Project 1 is recommended for beginners)
-Set up your working environment
-Use AI assistance to guide you through implementation
-Document everything as you go
-Add completed projects to your resume and portfolio
-Prepare to discuss your projects in interviews
+1. Choose one project to start with (Project 1 is recommended for beginners)
+2. Set up your working environment
+3. Use AI assistance to guide you through implementation
+4. Document everything as you go
+5. Add completed projects to your resume and portfolio
+6. Prepare to discuss your projects in interviews
